@@ -1,2 +1,2 @@
-# aap-demo - master branch
-Ansible Automation Platform demo
+# Poorly formed playbook yaml
+Ansible Automation Platform will not recognize
